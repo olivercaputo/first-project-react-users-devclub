@@ -5,13 +5,13 @@
 
 <br>
 
-<img src="./img/projeto-node-users.jpg" alt="projeto-node-users"/>
+https://user-images.githubusercontent.com/98890774/172529362-ea9db435-1592-4d6e-8811-15758c676731.mp4
 
 <h2>📝 Descrição do Projeto:</h2>
 
 <h3>Projeto Front-end de cadastro de usuários (users) utilizando Javascript e React. Iniciando os estudos de Front-end com o React.</h3>
 
-<h3>Com essa simples interface, é possível cadastrar o Nome do Usuário e a sua Idade, clicando no Botão Cadastrar, na próxima página, pode-se consultar os Usuários cadastrados e Deletá-los.</h3>
+<h3>Com essa simples interface, é possível cadastrar o Nome do Usuário e a sua Idade clicando no Botão Cadastrar, na próxima página, pode-se consultar os Usuários cadastrados e Deletá-los.</h3>
 
 <br>
 
