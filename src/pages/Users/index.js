@@ -15,7 +15,7 @@ import {
   Container,
   Image,
   User,
-  
+
 } from "./styles";
 
 function Users() {

@@ -14,7 +14,7 @@ import {
   Image,
   InputLabel,
   Input,
-  
+
 } from "./styles";
 
 function App() {
